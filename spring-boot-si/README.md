@@ -1,8 +1,9 @@
 # Spring Boot | 使用Spring Initializr快速创建
 > 简单快速搭建启动Spring Boot项目
 
-[教程源码Github地址](https://github.com/lixhbs/SpringBoot/tree/master/spring-boot-si)
-[教程源码Gitee地址](https://gitee.com/Lixhbs/SpringBoot/tree/master/spring-boot-si)
+[教程源码Github地址](https://github.com/lixhbs/SpringBoot/tree/master/spring-boot-si)   
+[教程源码Gitee地址](https://gitee.com/Lixhbs/SpringBoot/tree/master/spring-boot-si)    
+[博客地址](https://blog.aprcode.com/Spring-Boot-%E4%BD%BF%E7%94%A8Spring-Initializr%E5%BF%AB%E9%80%9F%E5%88%9B%E5%BB%BA/)
 
 
 - Create New Prject | 创建新项目
